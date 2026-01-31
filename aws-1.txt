@@ -1,0 +1,7 @@
+Name ; Ranga
+
+branch ; ece
+
+Roll no ; 87654321
+
+Collage ; mathama Gandhi university
