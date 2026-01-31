@@ -1,0 +1,9 @@
+-----------
+company sales quater report (Q1-2025);
+-----------       
+
+may        $10000
+
+june         $19000
+
+dec       $12000
